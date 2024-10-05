@@ -43,6 +43,11 @@ body {
   opacity: .9;
 }
 
+.btn.btn-primary:active:focus {
+  background-color: #7c3aed;
+  border-color: #7c3aed;
+}
+
 @media screen and (max-width: 768px) {
   .card {
     width: 100%;
