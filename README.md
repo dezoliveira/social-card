@@ -5,7 +5,7 @@ Suas funcionalidades são:
 
 - Exibição (Front) de um Card foto do usuário, uma breve descrição, hashtags e um botão de Follow.
 
-Acesse: [Social Card](social-card-nine.vercel.app)
+Acesse: https://social-card-nine.vercel.app/
 
 ---
 #### Tecnologias 
