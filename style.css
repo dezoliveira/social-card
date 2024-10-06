@@ -6,6 +6,7 @@
   box-sizing: border-box;
 }
 
+/* css elements */
 a {
   text-decoration: none;
   color: #7c3aed;
@@ -26,7 +27,7 @@ body {
   background-color: #0f172a;
 }
 
-/* styles */
+/* styles */  
 .card {
   width: 26rem;
 }
@@ -46,12 +47,16 @@ body {
   border-color: #7c3aed;
 }
 
+/* media queries */
+
+/* small devices e mobile phone */
 @media screen and (max-width: 768px) {
   .card {
     width: 100%;
   }
 }
 
+/* tablets e small desktops / notebooks */
 @media (min-width: 769px) and (max-width: 1400px) {
   .card {
     width: 22rem;
